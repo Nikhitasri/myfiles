@@ -31,4 +31,9 @@ s.no|name|rollnum
 5|naveena|208w1a05g7
 6|bhargavi|208w1a05f7
 
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+~~This was mistaken text~~
+ > Text that is a quote
+
 
